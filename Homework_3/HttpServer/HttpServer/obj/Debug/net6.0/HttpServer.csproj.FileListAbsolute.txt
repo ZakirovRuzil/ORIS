@@ -1,0 +1,16 @@
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.exe
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.deps.json
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.runtimeconfig.json
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.pdb
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.AssemblyReference.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfoInputs.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.AssemblyInfo.cs
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.pdb
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.genruntimeconfig.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\11-209\Homework_3\HttpServer\HttpServer\bin\Debug\net6.0\bin\Debug\net6.0\appsettings.json
