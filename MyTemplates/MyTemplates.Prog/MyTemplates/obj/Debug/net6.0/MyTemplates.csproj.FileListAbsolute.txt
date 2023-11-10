@@ -1,0 +1,12 @@
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\bin\Debug\net6.0\MyTemplates.deps.json
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\bin\Debug\net6.0\MyTemplates.dll
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\bin\Debug\net6.0\MyTemplates.pdb
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.csproj.AssemblyReference.cache
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.AssemblyInfoInputs.cache
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.AssemblyInfo.cs
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.csproj.CoreCompileInputs.cache
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.dll
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\refint\MyTemplates.dll
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\MyTemplates.pdb
+C:\Users\ruzyz\ORIS\MyTemplates\MyTemplates.Prog\MyTemplates\obj\Debug\net6.0\ref\MyTemplates.dll
