@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "x45SxM78FlPgYmQq+YCFWozcH56SBb8lZJYLfF7xy43JM00ifhow0BKRXvHeqcSzdPVEK5NshYHPbYW0dvp/MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruzyz\\OneDrive\\Рабочий стол\\ORM\\AdoNet.Metanit\\Example_5-3\\Example_5-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruzyz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\npgsql\\8.0.0-rc.2\\npgsql.8.0.0-rc.2.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0-rc.2.23479.6\\system.diagnostics.diagnosticsource.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\system.text.encodings.web\\8.0.0-rc.2.23479.6\\system.text.encodings.web.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\ruzyz\\.nuget\\packages\\system.text.json\\8.0.0-rc.2.23479.6\\system.text.json.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

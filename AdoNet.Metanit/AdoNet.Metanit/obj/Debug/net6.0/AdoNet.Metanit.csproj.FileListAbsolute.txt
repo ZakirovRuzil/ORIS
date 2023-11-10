@@ -1,0 +1,15 @@
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\bin\Debug\net6.0\AdoNet.Metanit.exe
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\bin\Debug\net6.0\AdoNet.Metanit.deps.json
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\bin\Debug\net6.0\AdoNet.Metanit.runtimeconfig.json
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\bin\Debug\net6.0\AdoNet.Metanit.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\bin\Debug\net6.0\AdoNet.Metanit.pdb
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.csproj.AssemblyReference.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.AssemblyInfoInputs.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.AssemblyInfo.cs
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.csproj.CoreCompileInputs.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\refint\AdoNet.Metanit.dll
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.pdb
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\AdoNet.Metanit.genruntimeconfig.cache
+C:\Users\ruzyz\OneDrive\Рабочий стол\ORM\AdoNet.Metanit\AdoNet.Metanit\obj\Debug\net6.0\ref\AdoNet.Metanit.dll
